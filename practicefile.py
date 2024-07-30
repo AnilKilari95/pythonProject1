@@ -71,3 +71,4 @@ for number in numbers:
         print(f"Original number {number}\nNo. given number is not palindrome number\n")
 
 
+
